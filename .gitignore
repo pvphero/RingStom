@@ -1,7 +1,7 @@
 .DS_Store
 .gradle
 .idea
-/gradle
+#/gradle
 /build
 /local.properties
 /captures
